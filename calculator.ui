@@ -575,8 +575,8 @@ padding: 5px;
     </property>
     <property name="styleSheet">
      <string notr="true">QPushButton{
-background-color: #FF8C00;
-border: 1px solid gray;
+background-color: #FE8C00;
+border: 1px solid green;
 padding: 5px;
 }
 
